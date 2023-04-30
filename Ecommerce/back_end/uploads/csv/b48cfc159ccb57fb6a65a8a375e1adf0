@@ -1,0 +1,12 @@
+discount,images,description,price,currency,brand,category,colors,quantity,name
+NULL,uploads/1d857045805b4c56ddba5cfe8937604b,A laptop,67000,USD,BEST BRAND,GENERAL ,BLACK,9,A SamSung Laptop
+NULL,uploads/583168c4f427d895f2d5a4b23d8299f1,123,123,USD,BEST BRAND,GENERAL ,BLACK,111,123
+NULL,uploads/029e21dbf8b2cdccf7e113f0f1fbe269,A Car Potrait,600,USD,BEST BRAND,GENERAL ,BLACK,123,Potrait of Cart
+NULL,uploads/bf94fbac86b23b3dc7382795bdb07084,The Laptop,60000,USD,BEST BRAND,GENERAL ,BLACK,32,The Laptop 1 
+NULL,uploads/fcd55c59fc12f370880644f5c7bae3de,An Apple Product,800,USD,BEST BRAND,GENERAL ,BLACK,45,MacBook Air
+NULL,uploads/911de7c89a3b23d276acb2054c371b93,An Apple Product,19900,USD,BEST BRAND,GENERAL ,BLACK,43,A macbook From seller 1
+NULL,uploads/b81c3b96e943595c7e35a052fdfbec2b,An Apple Product,89000,USD,BEST BRAND,GENERAL ,BLACK,32,A MacBook Air
+NULL,uploads/db50edde7584899660a875d3c51d0e42,A Good laptop,67499,USD,BEST BRAND,GENERAL ,BLACK,34,The Galaxy Book
+NULL,uploads/6c7ae2a43fe3927493109220e432c6e5,A simple potrait of Amg GT,1299,USD,BEST BRAND,GENERAL ,BLACK,232,Amg GT 
+NULL,uploads/7a9e27b4a6041935f4ec3184e6d42d47,A Entry Gaming Laptop,56999,USD,BEST BRAND,GENERAL ,BLACK,132,Tuff
+NULL,uploads/254c00377304c9885eae83db5f392338,A powerful gaming laptop,76898,USD,BEST BRAND,GENERAL ,BLACK,43,Tuff A15
